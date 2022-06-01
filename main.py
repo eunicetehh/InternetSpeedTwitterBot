@@ -17,7 +17,6 @@ class InternetSpeedTwitterBot:
         self.up = 0
         self.down = 0
 
-
     def get_internet_speed(self):
         url = 'https://www.speedtest.net/'
         self.browser.get(url)
