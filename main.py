@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 PROMISED_DOWN = 30
 PROMISED_UP = 40
 CHROME_DRIVER_PATH = "C:\\Users\\User\\Downloads\\chromedriver.exe"
-TWITTER_PASSWORD = "Zeu)K\"78"
-TWITTER_ID = "internetbot123"
+TWITTER_PASSWORD = "USER_PASSWORD"
+TWITTER_ID = "USER_ID"
 
 
 class InternetSpeedTwitterBot:
