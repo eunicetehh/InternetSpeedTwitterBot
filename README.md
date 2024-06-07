@@ -1,6 +1,6 @@
 # Internet Speed Twitter Bot
 
-The Internet Speed Twitter Bot is a Python script designed to automate the process of testing internet speed and tweeting the results to the internet service provider's Twitter account. This bot utilizes Selenium, a web automation tool, to interact with the Speedtest website for measuring internet speed and the Twitter website for posting tweets.
+The Internet Speed Twitter Bot is a Python script designed to automate the process of testing internet speed and tweeting the results to the internet service provider's Twitter account. This bot utilizes Selenium, a web automation tool, to interact with the Speedtest website for measuring internet speed and scrap the data to post on twitter.
 
 ## Prerequisites
 
